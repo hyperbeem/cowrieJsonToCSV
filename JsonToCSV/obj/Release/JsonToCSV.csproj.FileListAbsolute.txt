@@ -1,0 +1,14 @@
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\JsonToCSV.exe.config
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\JsonToCSV.exe
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\JsonToCSV.pdb
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\CsvHelper.dll
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\Newtonsoft.Json.dll
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\System.ValueTuple.dll
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\CsvHelper.xml
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\Newtonsoft.Json.pdb
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\Newtonsoft.Json.xml
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\bin\Release\System.ValueTuple.xml
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\obj\Release\JsonToCSV.csproj.CoreCompileInputs.cache
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\obj\Release\JsonToCSV.csproj.CopyComplete
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\obj\Release\JsonToCSV.exe
+W:\Google Drive\C#\JsonToCSV\JsonToCSV\obj\Release\JsonToCSV.pdb
